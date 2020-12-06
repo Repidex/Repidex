@@ -8,6 +8,5 @@ and currently working on Data science internship and Learning Full stack python 
 #### 🤔 I’m looking for help with python development and Data analytics.
 #### 💬 Ask me about python data-science and Hacking stuff..
 #### 📫 Here to reach me: https://www.linkedin.com/in/jitendra-kumar-71791516a/
-⚡ Fun fact: I'm enjoying at studying.😄😄
 ![fun-fact](https://github.com/Repidex/Repidex/blob/main/funcode.gif)
 
