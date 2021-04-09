@@ -1,5 +1,5 @@
 ## Hello, I'm Jitendra Kumar 👋
-I am undergraduate computer science student. I am python developer and data analyst.
+I am undergraduate computer science student. I am full Stack developer and data analyst.
 and currently working on Data science internship and Learning Full stack python Development.
 ![learn-coding](https://github.com/Repidex/Repidex/blob/main/learncoding.gif)
 
